@@ -1,0 +1,7 @@
+package srcFiguritas;
+
+public enum Seleccion {
+
+	ARGENTINA, BRASIL, CHILE, BOLIVIA, PERU, ITALIA, ALEMANIA, ESPANIA, GUATEMALA, CHINA, JAPON, URUGUAY;
+	
+}
